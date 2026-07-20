@@ -1,19 +1,19 @@
 {
-    "version": "0.9.4",
+    "version": "0.10.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/orlandoburli/apiary/releases/download/v0.9.4/apiary_0.9.4_windows_amd64.zip",
+            "url": "https://github.com/orlandoburli/apiary/releases/download/v0.10.0/apiary_0.10.0_windows_amd64.zip",
             "bin": [
                 "apiary.exe"
             ],
-            "hash": "7fd6acef7f088b3da9dd4beee3cdfacabdd29702dd3c57f4e0ed83dc5980a021"
+            "hash": "71377c4debff6473f58b0c21707fab91983cef1853cc50cdbba7b0095d077bc3"
         },
         "arm64": {
-            "url": "https://github.com/orlandoburli/apiary/releases/download/v0.9.4/apiary_0.9.4_windows_arm64.zip",
+            "url": "https://github.com/orlandoburli/apiary/releases/download/v0.10.0/apiary_0.10.0_windows_arm64.zip",
             "bin": [
                 "apiary.exe"
             ],
-            "hash": "d395f59be75e9fd0945376bffcef32099c6901587a48b328fdf0738d2953b1ba"
+            "hash": "756c200972db437d889120c5a51c8b9eaa69b68b138ff48df618e8e5bd57d0bf"
         }
     },
     "homepage": "https://github.com/orlandoburli/apiary",
